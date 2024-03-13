@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ismailoladejo5@gmail.com
+	name = ismailoladejo
